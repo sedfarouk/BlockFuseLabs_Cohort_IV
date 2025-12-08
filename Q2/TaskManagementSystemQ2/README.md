@@ -67,19 +67,19 @@ Swagger snapshots
 Below are screenshots taken from the Swagger UI during development. They show the available endpoints and example responses for create, list, complete and delete operations.
 
 ### API endpoints (Swagger)
-![API endpoints](/Q2/TaskManagementSystemQ2/api_endpoints_swagger.png)
+![API endpoints](/Q2/TaskManagementSystemQ2/screenshots/api_endpoints_swagger.png)
 
 ### Create task (response)
-![Create task response](/Q2/TaskManagementSystemQ2/create_task.png)
+![Create task response](/Q2/TaskManagementSystemQ2/screenshots/create_task.png)
 
 ### List tasks (response)
-![List tasks response](/Q2/TaskManagementSystemQ2/get_all_tasks.png)
+![List tasks response](/Q2/TaskManagementSystemQ2/screenshots/get_all_tasks.png)
 
 ### Mark task as completed (response)
-![Mark task as completed response](/Q2/TaskManagementSystemQ2/mark_task_as_completed.png)
+![Mark task as completed response](/Q2/TaskManagementSystemQ2/screenshots/mark_task_as_completed.png)
 
 ### Delete task (response)
-![Delete task response](/Q2/TaskManagementSystemQ2/delete_task.png)
+![Delete task response](/Q2/TaskManagementSystemQ2/screenshots/delete_task.png)
 
 Notes
 - The project uses EF Core. For a production setup you should use migrations and a managed Postgres instance.
