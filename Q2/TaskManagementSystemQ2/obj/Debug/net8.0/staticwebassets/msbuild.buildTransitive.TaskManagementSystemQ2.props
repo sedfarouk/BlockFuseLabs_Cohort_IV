@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/TaskManagementSystemQ2.props" />
+</Project>

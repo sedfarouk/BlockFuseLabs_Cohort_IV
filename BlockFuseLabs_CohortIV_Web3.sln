@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Q2", "Q2", "{4C915D7C-36D6-6BE2-4A58-D5B29530D727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystemQ2", "Q2\TaskManagementSystemQ2\TaskManagementSystemQ2.csproj", "{5F4D1019-1405-4898-F064-56DA57D3E17B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4D1019-1405-4898-F064-56DA57D3E17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4D1019-1405-4898-F064-56DA57D3E17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4D1019-1405-4898-F064-56DA57D3E17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4D1019-1405-4898-F064-56DA57D3E17B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5F4D1019-1405-4898-F064-56DA57D3E17B} = {4C915D7C-36D6-6BE2-4A58-D5B29530D727}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC13CBD-9972-436A-8279-16D3A068C429}
+	EndGlobalSection
+EndGlobal
