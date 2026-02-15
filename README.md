@@ -56,12 +56,6 @@ Design notes
 - Q1: Uses an O(n) sliding-window algorithm with clear variable names, docstrings, and pytest tests covering normal and edge cases.
 - Q2: Minimal API using EF Core. The `TaskItem` entity includes Title, Description, DueDate, IsCompleted, CreatedAt and CompletedAt. Endpoints return clean JSON and appropriate HTTP status codes.
 
-Next steps / improvements (optional extras for extra marks)
-
-- Add EF Core migrations and a small GitHub Actions workflow to build & test on push/PR.
-- Add integration tests for Q2 endpoints (e.g., using WebApplicationFactory or test host).
-- Add logging and better error handling or input validation attributes for Q2's DTOs.
-
 Context
 
 This project was prepared for the BlockFuse Labs Cohort IV intake. It is intended to show readiness for the Web3 curriculum by demonstrating solid Web2 fundamentals.
